@@ -1,16 +1,14 @@
-## Hi there 👋
+## hi there 👋
 
-<!--
-**d-olivr/d-olivr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- most used languages -->
+<div>
+<a href="https://github.com/d-olivr">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-olivr&layout=compact&langs_count=7&theme=onedark&hide_border=true"/> 
 
-Here are some ideas to get you started:
+<!-- github stats -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=d-olivr&show_icons=true&theme=onedark&hide_border=true)
+
+<!-- contact me! -->
+
+[![gmail](https://img.shields.io/badge/E--mail-282c34?style=for-the-badge&logo=gmail&logoColor=black&labelColor=7d9e68)](mailto:dolivr.br@gmail.com) [![linkedIn](https://img.shields.io/badge/LinkedIn-282c34?style=for-the-badge&logo=LinkedIn&logoColor=black&labelColor=7d9e68)](https://www.linkedin.com/in/d-olivr)
