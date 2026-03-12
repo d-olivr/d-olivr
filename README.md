@@ -7,7 +7,6 @@
   
 <h2 align="left">:open_file_folder: bem vindo!</h2>
   <p align="left">
- gosto muito de entender como as coisas funcionam por dentro, e foi isso que me trouxe até a graduação de ciência da computação. 
   <b>gosto de criar soluções, analisar tudo e unir criatividade e tecnologia.</b>
   </p>
   <p align="left" valign="top">
