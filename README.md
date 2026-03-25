@@ -38,8 +38,8 @@
 
   <!--- stats--->
   <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-olivr&layout=compact&langs_count=7&theme=vue-dark&hide_border=true&bg_color=00000000" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=d-olivr&show_icons=true&theme=vue-dark&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-olivr&layout=compact&langs_count=7&theme=vue-dark&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=d-olivr&show_icons=true&theme=vue-dark&hide_border=true" />
   </div>
   <div align="left">
   <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="150" alt="penguin coding" />
