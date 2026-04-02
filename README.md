@@ -31,7 +31,7 @@
 <!-- stats de linguagens -->
 <div align="left">
   <img
-    height="180"
+    height="220"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=d-olivr&layout=compact&include_all_commits=true&langs_count=9&hide_border=true&theme=merko&bg_color=00000000"
   />
 </div>
