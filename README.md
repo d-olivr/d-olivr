@@ -44,6 +44,9 @@
 </div>
 
 <br>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=d-olivr&style=pixel&abbreviated=true&label=Visualizações&color=66b084"/>
+</div>
 
 <!-- seção colapsável -->
 <details align="center">
