@@ -15,15 +15,16 @@
   </p>
 
 <h3 align="left">:gear: tecnologias</h3>
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,c,git,github,mysql,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,anaconda,c,java,git,mysql,aws,docker&theme=dark" />
 
 <h3 align="left">:email: contato</h3>
 
-<!-- badges de contato -->
-[![gmail](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail&logoColor=black&logoSize=auto&labelColor=gray&color=66b084)](mailto:dolivr.br@gmail.com)
-[![linkedin](https://img.shields.io/badge/Linkedin-66b084?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=gray)](https://linkedin.com/d-olivr)
+<img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="90" alt="penguin coding main"/> &nbsp;
+<a href="mailto:dolivr.br@gmail.com"><img src="https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail&logoColor=black&logoSize=auto&labelColor=gray&color=66b084"/></a>
+<a href="https://linkedin.com/d-olivr"><img src="https://img.shields.io/badge/Linkedin-66b084?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=gray"/></a>
+<img src="https://komarev.com/ghpvc/?username=d-olivr&style=for-the-badge&abbreviated=true&label=Visualizações&color=66b084"/>
 
-<br><br>
+<br>
 
 <!-- coluna direita -->
 <td width="30%" align="center" valign="top">
@@ -33,19 +34,12 @@
   <img
     height="220"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=d-olivr&layout=compact&include_all_commits=true&langs_count=9&hide_border=true&theme=merko&bg_color=00000000"
-  />
-</div>
-
-<!-- stats gerais (desativado por ora) -->
-<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=d-olivr&show_icons=true&bg_color=00000000"> -->
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="170" alt="penguin coding" />
-</div>
-
-<br>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=d-olivr&style=pixel&abbreviated=true&label=Visualizações&color=66b084"/>
+<!-- stats gerais-->
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=d-olivr&show_icons=true&hide_border=true&theme=merko&bg_color=00000000">
+  <img 
+    src="https://komarev.com/ghpvc/?username=d-olivr&style=pixel&abbreviated=true&label=Visualizações&color=66b084"/>
 </div>
 
 <!-- seção colapsável -->
@@ -58,7 +52,6 @@
   </p>
 </details>
 
-<br>
 </td>
 </tr>
 </table>
