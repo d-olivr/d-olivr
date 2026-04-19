@@ -1,5 +1,5 @@
 <!-- notepad -->
-<img align="right" src="https://i.imgur.com/jvtYW4y.png">
+<img align="right" src="https://i.imgur.com/BMqR7Qa.png">
 <table width="100%">
 
 <!-- coluna esquerda -->
@@ -19,29 +19,9 @@
 
 <h3 align="left">:email: contato</h3>
 
-<img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="90" alt="penguin coding main"/> &nbsp;
 <a href="mailto:dolivr.br@gmail.com"><img src="https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail&logoColor=black&logoSize=auto&labelColor=gray&color=66b084"/></a>
 <a href="https://linkedin.com/d-olivr"><img src="https://img.shields.io/badge/Linkedin-66b084?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=gray"/></a>
 <img src="https://komarev.com/ghpvc/?username=d-olivr&style=for-the-badge&abbreviated=true&label=Visualizações&color=66b084"/>
-
-<br>
-
-<!-- coluna direita -->
-<td width="30%" align="center" valign="top">
-
-<!-- stats de linguagens -->
-<div align="left">
-  <img
-    height="220"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=d-olivr&layout=compact&include_all_commits=true&langs_count=9&hide_border=true&theme=merko&bg_color=00000000"
-<!-- stats gerais-->
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=d-olivr&show_icons=true&hide_border=true&theme=merko&bg_color=00000000">
-  <img 
-    src="https://komarev.com/ghpvc/?username=d-olivr&style=pixel&abbreviated=true&label=Visualizações&color=66b084"/>
-</div>
-
 <!-- seção colapsável -->
 <details align="center">
   <summary align="center">
@@ -51,6 +31,24 @@
     <sub><small>eu que desenhei minha foto de perfil!</small></sub>
   </p>
 </details>
+<br>
+<!-- coluna direita -->
+<td width="30%" align="center" valign="top">
+
+<!-- stats de linguagens + gif -->
+<div align="center">
+  <img
+    height="220"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=d-olivr&layout=compact&include_all_commits=true&langs_count=9&hide_border=true&theme=merko&bg_color=00000000"
+<!-- stats gerais-->
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=d-olivr&show_icons=true&hide_border=true&theme=merko&bg_color=00000000">
+  <img 
+    src="https://komarev.com/ghpvc/?username=d-olivr&style=pixel&abbreviated=true&label=Visualizações&color=66b084"/>
+  <img 
+    src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="120" alt="penguin coding"/>
+</div>
 
 </td>
 </tr>
