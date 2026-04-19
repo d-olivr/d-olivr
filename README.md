@@ -47,7 +47,7 @@
   <img 
     src="https://komarev.com/ghpvc/?username=d-olivr&style=pixel&abbreviated=true&label=Visualizações&color=66b084"/>
   <img 
-    src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="120" alt="penguin coding"/>
+    src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="130" alt="penguin coding"/>
 </div>
 
 </td>
