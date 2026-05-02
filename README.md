@@ -87,7 +87,7 @@
         <img src="https://img.shields.io/badge/Seaborn-66b084?style=flat-square&logo=python&logoColor=294635" />
       </div>
       <p align="center">
-        Análise exploratória e modelagem preditiva de churn para identificar clientes com risco de cancelamento em uma empresa de telecomunicações
+        Análise exploratória e modelagem preditiva de churn para identificar clientes com risco de cancelamento
       </p>
       <p align="center"><a href="https://github.com/d-olivr/oracle-one/tree/main/telecom-x-2">🔗 repositório</a></p>
     </td>
