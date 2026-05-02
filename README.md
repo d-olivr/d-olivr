@@ -1,6 +1,6 @@
 <img align="center" src="https://i.imgur.com/BMqR7Qa.png">
 
-<table width="900">
+<table width="750">
 <tr><td>
 
 # 🌎 bem vindo!
@@ -62,8 +62,8 @@
 <div align="center">
 <table width="100%">
   <tr>
-    <th width="450" align="center">Tutor Inteligente</th>
-    <th width="450" align="center">Telecom X</th>
+    <th width="375" align="center">Tutor Inteligente</th>
+    <th width="375" align="center">Telecom X</th>
   </tr>
   <tr>
     <td>
@@ -93,8 +93,8 @@
     </td>
   </tr>
   <tr>
-    <th width="450" align="center">Steam Analisis</th>
-    <th width="450" align="center">AluraStore</th>
+    <th width="375" align="center">Steam Analisis</th>
+    <th width="375" align="center">AluraStore</th>
   </tr>
   <tr>
     <td>
@@ -104,7 +104,7 @@
         <img src="https://img.shields.io/badge/Keras-66b084?style=flat-square&logo=keras&logoColor=294635" />
       </div>
       <p align="center">
-        Análise exploratória e modelagem preditiva para identificar quais atributos de jogos na Steam estão associados a avaliações positivas dos jogadores
+        Análise exploratória e modelagem preditiva para identificar quais atributos de jogos na Steam estão associados a avaliações positivas
       </p>
       <p align="center"><a href="https://github.com/d-olivr/game-analysis">🔗 repositório</a></p>
     </td>
@@ -130,7 +130,7 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=d-olivr&layout=compact&include_all_commits=true&langs_count=9&hide_border=true&theme=merko&bg_color=00000000" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=d-olivr&show_icons=true&hide_border=true&theme=merko&bg_color=00000000" />
+  <!---<img height="160" src="https://github-readme-stats.vercel.app/api?username=d-olivr&show_icons=true&hide_border=true&theme=merko&bg_color=00000000" />--->
   <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="190" alt="penguin coding" />
 </div>
 <br>
