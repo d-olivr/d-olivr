@@ -129,8 +129,8 @@
 ## 🍀 stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=d-olivr&layout=compact&include_all_commits=true&langs_count=9&hide_border=true&theme=merko&bg_color=00000000" />
-  <!---<img height="160" src="https://github-readme-stats.vercel.app/api?username=d-olivr&show_icons=true&hide_border=true&theme=merko&bg_color=00000000" />--->
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=d-olivr&layout=compact&include_all_commits=true&langs_count=9&hide_border=true&theme=merko&bg_color=00000000" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=d-olivr&show_icons=true&hide_border=true&theme=merko&bg_color=00000000" />
   <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="190" alt="penguin coding" />
 </div>
 <br>
